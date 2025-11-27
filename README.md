@@ -2,4 +2,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazuriit&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazuriit)
-[![Generate Stats Images](https://github.com/rahul-jha98/github-stats-transparent/actions/workflows/main.yml/badge.svg?branch=main&event=status)](https://github.com/rahul-jha98/github-stats-transparent/actions/workflows/main.yml)
+[![Generate Stats Images](https://github.com/rahul-jha98/github-stats-transparent/actions/workflows/main.yml/badge.svg)](https://github.com/rahul-jha98/github-stats-transparent/actions/workflows/main.yml)
