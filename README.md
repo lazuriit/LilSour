@@ -5,7 +5,7 @@
 ![](https://raw.githubusercontent.com/lazuriit/github-stats-transparent/output/generated/languages.svg)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-### **Git** ![Git](https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white)
-### **Kotlin** ![Kotlin](https://img.shields.io/badge/-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-### **Python** ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white)
-### **C** ![C](https://img.shields.io/badge/-00599C?style=flat-square&logo=c&logoColor=white)
+### **Git** <img src="https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+### **Kotlin** <img src="https://img.shields.io/badge/-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+### **Python** <img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+### **C** <img src="https://img.shields.io/badge/-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
